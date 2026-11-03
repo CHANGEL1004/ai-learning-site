@@ -1,0 +1,1 @@
+"use strict";const $=(q)=>document.querySelector(q),$$=(q)=>Array.from(document.querySelectorAll(q));
